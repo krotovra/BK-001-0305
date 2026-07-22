@@ -1,0 +1,6 @@
+../Core/Src/Keyboard.c:19:7:KeyboardGetLockState	1
+../Core/Src/Keyboard.c:24:7:ButtonRead	10
+../Core/Src/Keyboard.c:76:6:ButtonProcess	19
+../Core/Src/Keyboard.c:153:6:KeyboardInit	2
+../Core/Src/Keyboard.c:163:6:KeyboardRead	2
+../Core/Src/Keyboard.c:173:6:KeyboardProcess	8

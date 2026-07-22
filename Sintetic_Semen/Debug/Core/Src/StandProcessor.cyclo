@@ -1,8 +1,0 @@
-../Core/Src/StandProcessor.c:23:6:StandProcessor_Init	1
-../Core/Src/StandProcessor.c:34:6:StandProcessor_RemainingQuestionCountDec	2
-../Core/Src/StandProcessor.c:43:6:StandProcessor_CheckOldQuestion	2
-../Core/Src/StandProcessor.c:55:6:StandProcessor_GetInfo	1
-../Core/Src/StandProcessor.c:61:6:StandProcessor_AskNextQuestion	1
-../Core/Src/StandProcessor.c:108:6:StandProcessor_LearningStart	1
-../Core/Src/StandProcessor.c:71:6:StandProcessor_GetInfo_SetAnswer	6
-../Core/Src/StandProcessor.c:118:6:StandProcessor_ControlStart	1

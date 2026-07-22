@@ -1,0 +1,6 @@
+../Core/Src/CircuitProcessor.c:10:6:CircuitProcessor_ResetAllCircuit	2
+../Core/Src/CircuitProcessor.c:24:6:CircuitProcessor_Init	4
+../Core/Src/CircuitProcessor.c:50:6:CircuitProcessor_Update	7
+../Core/Src/CircuitProcessor.c:108:6:CircuitProcessor_SetExBoardPin	1
+../Core/Src/CircuitProcessor.c:113:6:CircuitProcessor_CircuitConfigure	1
+../Core/Src/CircuitProcessor.c:120:6:CircuitProcessor_CircuitSetState	1

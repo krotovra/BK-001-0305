@@ -1,6 +1,0 @@
-../Core/Src/UART.c:25:6:UART_WriteByte	1
-../Core/Src/UART.c:30:6:UART_WriteString	2
-../Core/Src/UART.c:38:6:UART_StartTransmit	2
-../Core/Src/UART.c:47:6:UART_Recive	2
-../Core/Src/UART.c:58:6:UART_Transmit	3
-../Core/Src/UART.c:72:6:UART_Init	1

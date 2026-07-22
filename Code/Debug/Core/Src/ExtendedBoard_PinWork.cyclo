@@ -1,0 +1,3 @@
+../Core/Src/ExtendedBoard_PinWork.c:10:6:ExB0_SetClkPinState	1
+../Core/Src/ExtendedBoard_PinWork.c:18:6:ExB0_SetEnPinState	1
+../Core/Src/ExtendedBoard_PinWork.c:26:6:ExB0_SetDataPinState	1

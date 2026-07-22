@@ -1,0 +1,5 @@
+../Core/Src/CircularBuffer.c:11:6:CBuff_Init	1
+../Core/Src/CircularBuffer.c:20:6:CBuff_AddChar	2
+../Core/Src/CircularBuffer.c:35:6:CBuff_GetChar	2
+../Core/Src/CircularBuffer.c:53:6:CBuff_ReadChar	2
+../Core/Src/CircularBuffer.c:70:6:CBuff_IsEmpty	2

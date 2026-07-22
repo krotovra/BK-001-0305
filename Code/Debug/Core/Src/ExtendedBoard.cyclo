@@ -1,0 +1,8 @@
+../Core/Src/ExtendedBoard.c:10:6:ExtendedBoard_Init	1
+../Core/Src/ExtendedBoard.c:25:6:ExtendedBoard_SetBit	1
+../Core/Src/ExtendedBoard.c:30:6:ExtendedBoard_ResetBit	1
+../Core/Src/ExtendedBoard.c:35:8:ExtendedBoard_GetBit	1
+../Core/Src/ExtendedBoard.c:40:6:ExtendedBoard_Update	3
+../Core/Src/ExtendedBoard.c:71:6:ExtendedBoard_SetLedState	2
+../Core/Src/ExtendedBoard.c:90:6:ExtendedBoard_ClearAll	2
+../Core/Src/ExtendedBoard.c:98:6:ExtendedBoard_SetAll	2
