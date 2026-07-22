@@ -1,0 +1,10 @@
+../Core/Src/StandProcessorLLF.c:20:6:StandProcessor_IncTime_ms	2
+../Core/Src/StandProcessorLLF.c:26:7:StandProcessor_GetTime_ms	1
+../Core/Src/StandProcessorLLF.c:51:7:StandProcessor_GetPlayerBusyState	1
+../Core/Src/StandProcessorLLF.c:57:6:StandProcessor_SetWorkModeLed	3
+../Core/Src/StandProcessorLLF.c:77:6:StandProcessor_SetVolumePlayer	6
+../Core/Src/StandProcessorLLF.c:132:6:StandProcessor_VolumePlayerInc	2
+../Core/Src/StandProcessorLLF.c:141:6:StandProcessor_VolumePlayerDec	2
+../Core/Src/StandProcessorLLF.c:150:6:StandProcessor_SetAnswerResultIndicationState	4
+../Core/Src/StandProcessorLLF.c:178:6:StandProcessor_SetAnswerPositionIndicationState	7
+../Core/Src/StandProcessorLLF.c:31:6:StandProcessor_LL_Init	1
